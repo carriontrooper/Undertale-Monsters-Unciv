@@ -9,7 +9,7 @@
 		"cost": 120,
 		"requiredTech": "Steel",
 		"uniques": [
-			
+			"[+10]% Strength <when fighting on [Rough terrain] tiles>",
 		],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
