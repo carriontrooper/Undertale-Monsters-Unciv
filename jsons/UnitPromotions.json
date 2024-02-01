@@ -4,8 +4,8 @@
 		"uniques": [
 			"[+10]% Strength <vs [Military] units> <when attacking>",
 			"[-10]% Strength <vs [Melee] units> <when defending>"
-		],
-		"row": 124,
-		"column": 0
-	},
+		]
+		//"row": 124,
+		//"column": 0
+	}
 ]
