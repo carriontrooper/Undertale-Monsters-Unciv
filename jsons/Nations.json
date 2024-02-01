@@ -2,11 +2,11 @@
 	// victory types: Scientific, Diplomatic, Cultural, Domination
 	
 	{
-		"name": "EmpireName",
+		"name": "Monsters",
 		"leaderName": "LeaderName",
-		"adjective": ["Adjective"],
-		"startBias": ["Tundra"],
-		"preferredVictoryType":"Scientific",
+		"adjective": ["Monster"],
+		"startBias": ["Hills"],
+		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
@@ -23,10 +23,10 @@
 
 		"outerColor": [85, 85, 85],
 		"innerColor": [126, 192, 253],
-		"favoredReligion": "ReligionName",
+		"favoredReligion": "Tengriism",
 		"uniqueName": "Magic and Compassion",
 		"uniques": [
-			"Uniques Go Here"
+			"Uniques go here"
 		],
 		"cities": [
 			"Capital",
