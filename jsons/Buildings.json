@@ -8,6 +8,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": [
+			"[-10]% Unhappiness from [Population] [in this city]",
 			"Destroyed when the city is captured"
 		]
 	},
