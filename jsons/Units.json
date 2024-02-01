@@ -1,2 +1,19 @@
 [
+	{
+		"name": "Royal Guard",
+		"uniqueTo": "Monsters",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"uniques": [
+			
+		],
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
 ]
