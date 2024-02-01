@@ -21,8 +21,8 @@
 
 		"tradeRequest": ".",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [187, 0, 255],
+		"innerColor": [255, 255, 255],
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Magic and Compassion",
 		"uniques": [
