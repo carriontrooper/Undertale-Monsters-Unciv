@@ -3,7 +3,7 @@
 	
 	{
 		"name": "Monsters",
-		"leaderName": "LeaderName",
+		"leaderName": "Asgore",
 		"adjective": ["Monster"],
 		"startBias": ["Hills"],
 		"preferredVictoryType":"Diplomatic",
