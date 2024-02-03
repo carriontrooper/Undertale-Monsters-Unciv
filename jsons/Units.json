@@ -16,4 +16,17 @@
 		"requiredResource": "Iron",
 		"attackSound": "snd_grab"
 	},
+	{
+		"name": "Amalgam",
+		"uniqueTo": "Monsters",
+		"replaces": "Giant Death Robot",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 150,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		//"requiredResource": "Uranium",
+		"uniques": ["[+20]% Strength <while defending>", "Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	}
 ]
